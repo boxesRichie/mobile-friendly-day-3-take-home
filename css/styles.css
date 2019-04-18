@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500|Raleway');
+
+h1, h2, h3{
+    font-family: 'Raleway', sans-serif;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    color:white;
+}
+
+.jumbotron {
+    background-image: url("../img/art-artsy-color-887349.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+.jumbotron > p, h1 {
+    color:white;
+}
+.well {
+    background-color: brown;
+    color: white;
+}
